@@ -7,6 +7,6 @@ setup(name='spicemodels',
     author_email='alfredoescalante95@gmail.com',
     # license='GPL',
     packages=['spicemodels'],
-    install_requires=['numpy'],
+    install_requires=['numpy','cspice','pyopengl','pygame'],
     python_requires='>=3',
 )
