@@ -9,6 +9,15 @@ use one of the functions:
 	
 The required inputs will be asked in the console. Please be careful 
 introducing the required kernels and files with its corresponding path. 
+
+-------------------   Dependencies   ------------------------
+- numpy
+- cspice
+- spiceypy
+- pyopengl
+- pygame
+
+You need to make sure that dskexp/mkdsk utilities in cspice package have been added to system path.
 	
 -------------------   obj2dsk example   ------------------------
 
